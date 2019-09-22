@@ -1,1 +1,1 @@
-# jojjsec.github.io
+Blog and its associated setup files
